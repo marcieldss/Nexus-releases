@@ -1,8 +1,8 @@
-version: 1.0.4
+version: 1.0.5
 files:
-  - url: Nexus Setup 1.0.4.exe
-    sha512: WQQfUNZ9BagkwTteyiFfU2oeellrhN6eM3kmER/MmkUIUsGgr9gf8LhzhZlW8iA8Mp6gxestMOSz6gTNpDTUPA==
-    size: 102438242
-path: Nexus Setup 1.0.4.exe
-sha512: WQQfUNZ9BagkwTteyiFfU2oeellrhN6eM3kmER/MmkUIUsGgr9gf8LhzhZlW8iA8Mp6gxestMOSz6gTNpDTUPA==
-releaseDate: '2026-05-17T21:46:42.125Z'
+  - url: Nexus Setup 1.0.5.exe
+    sha512: XanoaXKRbYi6bh5Cznt14OhsDUDp5GQVJnZ1PJYNRSUDPTV27ltby0aqNDHe8B5K2qPm+JAbXYFQTgOCfjvCPw==
+    size: 102439102
+path: Nexus Setup 1.0.5.exe
+sha512: XanoaXKRbYi6bh5Cznt14OhsDUDp5GQVJnZ1PJYNRSUDPTV27ltby0aqNDHe8B5K2qPm+JAbXYFQTgOCfjvCPw==
+releaseDate: '2026-05-19T02:23:49.227Z'
